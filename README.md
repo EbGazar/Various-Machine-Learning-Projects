@@ -1,6 +1,6 @@
 ## Machine Learning Projects <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">.
 
-Applying Machine Learning algorithms for various applications using regression and classification techniques.
+`Applying Machine Learning algorithms for various applications using regression and classification techniques.`
 
 ## Iris Flowers Classifier 💡.
 
