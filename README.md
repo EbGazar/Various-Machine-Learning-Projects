@@ -1,6 +1,6 @@
 ## Machine Learning Projects <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">.
 
-`Applying Machine Learning algorithms for various applications using regression and classification techniques.`
+Applying Machine Learning algorithms for various applications using regression and classification techniques.
 
 ## Iris Flowers Classifier 💡.
 
@@ -11,12 +11,12 @@ It includes three iris species with 50 samples each as well as some properties a
 
 The columns in this dataset are:
 
-* Id,
-* SepalLengthCm,
-* SepalWidthCm,
-* PetalLengthCm,
-* PetalWidthCm,
-* Species,
+`* Id,`
+`* SepalLengthCm,`
+`* SepalWidthCm,`
+`* PetalLengthCm,`
+`* PetalWidthCm,`
+`* Species,`
 
 ## Housing Price Competetion 💡.
 
