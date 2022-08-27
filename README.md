@@ -40,7 +40,8 @@ It was scraped from publicly available results posted every week from Domain.com
 <br/>
 <details>
  <summary> Click to see more details! </summary>
-<br/>
+ <br/>
+ 
  Notes on Specific Variables:
  <br/>
 * `Rooms: Number of rooms`
