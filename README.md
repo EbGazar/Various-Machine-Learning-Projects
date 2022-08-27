@@ -37,8 +37,9 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 Melbourne real estate is BOOMING.
 It was scraped from publicly available results posted every week from Domain.com.au, The dataset includes Address, Type of Real estate, Suburb, Method of Selling, Rooms, Price, Real Estate Agent, Date of Sale and distance from C.B.D.
+<br/>
 <details>
- <summary>Click to see more details!</summary>
+ <summary> Click to see more details! </summary>
 <br/>
  Notes on Specific Variables:
  <br/>
