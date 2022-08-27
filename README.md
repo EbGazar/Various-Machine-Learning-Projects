@@ -39,10 +39,9 @@ Melbourne real estate is BOOMING.
 It was scraped from publicly available results posted every week from Domain.com.au, The dataset includes Address, Type of Real estate, Suburb, Method of Selling, Rooms, Price, Real Estate Agent, Date of Sale and distance from C.B.D.
 
 <details>
- 
- <summary> Click to see more details! </summary>
- <br/>
- **Notes on Specific Variables:**
+<summary> Click to see more details! </summary>
+<br/>
+ Notes on Specific Variables:
 <br/>
 * `Rooms: Number of rooms`
 * `Price: Price in dollars`
