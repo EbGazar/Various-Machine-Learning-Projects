@@ -15,7 +15,7 @@ It includes three iris species with 50 samples each as well as some properties a
  <br/>
 
 The columns in this dataset are:
-
+<br/>
 * ` Id`
 * ` SepalLengthCm`
 * ` SepalWidthCm`
@@ -41,9 +41,9 @@ It was scraped from publicly available results posted every week from Domain.com
 <details>
  
  <summary> Click to see more details! </summary>
- </br>
+ <br/>
  **Notes on Specific Variables:**
-</br>
+<br/>
 * `Rooms: Number of rooms`
 * `Price: Price in dollars`
 * `Method: S - property sold; SP - property sold prior; PI - property passed in; PN - sold prior not disclosed; SN - sold not disclosed; NB - no bid; VB - vendor bid; W - withdrawn prior to auction; SA - sold after auction; SS - sold after auction price not disclosed. N/A - price or highest bid not available.`
