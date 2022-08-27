@@ -38,11 +38,10 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 Melbourne real estate is BOOMING.
 It was scraped from publicly available results posted every week from Domain.com.au, The dataset includes Address, Type of Real estate, Suburb, Method of Selling, Rooms, Price, Real Estate Agent, Date of Sale and distance from C.B.D.
 
-<details>
-<summary> Click to see more details! </summary>
-<br/>
+Click to see more details!
+
  Notes on Specific Variables:
-<br/>
+ 
 * `Rooms: Number of rooms`
 * `Price: Price in dollars`
 * `Method: S - property sold; SP - property sold prior; PI - property passed in; PN - sold prior not disclosed; SN - sold not disclosed; NB - no bid; VB - vendor bid; W - withdrawn prior to auction; SA - sold after auction; SS - sold after auction price not disclosed. N/A - price or highest bid not available.`
@@ -58,5 +57,3 @@ It was scraped from publicly available results posted every week from Domain.com
 * `Landsize: Land Size`
 * `BuildingArea: Building Size`
 * `CouncilArea: Governing council for the area`
- 
-</details>
