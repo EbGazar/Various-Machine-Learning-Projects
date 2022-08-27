@@ -12,7 +12,7 @@ It includes three iris species with 50 samples each as well as some properties a
 
 <details>
  <summary> Click to see more details! </summary>
- <br>
+ </br>
 The columns in this dataset are:
 
 * ` Id`
@@ -40,7 +40,7 @@ It was scraped from publicly available results posted every week from Domain.com
 <details>
  
  <summary> Click to see more details! </summary>
- <br>
+ </br>
  **Notes on Specific Variables:**
 
 * `Rooms: Number of rooms`
