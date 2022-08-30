@@ -2,6 +2,16 @@
 
 Applying Machine Learning algorithms for various applications using regression and classification techniques.
 
+## Project Libraries and Modules.
+
+* [Numpy](https://numpy.org/doc/stable/index.html)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Scikit-learn](https://scikit-learn.org/stable/)
+
+## List of Projects
+
 ## 💡 Iris Flowers Classifier.
 
 
