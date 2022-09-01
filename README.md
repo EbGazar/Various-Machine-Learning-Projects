@@ -70,3 +70,37 @@ It was scraped from publicly available results posted every week from Domain.com
 * `BuildingArea: Building Size`
 * `CouncilArea: Governing council for the area`
 </details>
+
+## 💡 Iris Flowers Classifier.
+
+
+##### Project Overview:
+
+This is a Glass Identification Data Set from UCI. It contains 10 attributes including id. The response is glass type, discrete 7 values which is:
+
+-- 1 buildingwindowsfloatprocessed
+-- 2 buildingwindowsnonfloatprocessed
+-- 3 vehiclewindowsfloatprocessed
+-- 4 vehiclewindowsnonfloatprocessed (none in this database)
+-- 5 containers
+-- 6 tableware
+-- 7 headlamps
+
+<br/>
+<details>
+ <summary> <b> Click to see more details! </b> </summary>
+ <br/>
+
+Attribute Information:
+<br/>
+* `RI: refractive index`
+* `Na: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10)`
+* `Mg: Magnesium`
+* `Al: Aluminum`
+* `Si: Silicon`
+* `K: Potassium`
+* `Ca: Calcium`
+* `Ba: Barium`
+* `Fe: Iron`
+* `Type of glass: (class attribute)`
+</details>
