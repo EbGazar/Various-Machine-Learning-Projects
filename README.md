@@ -85,7 +85,6 @@ This is a Glass Identification Data Set from UCI. It contains 10 attributes incl
 * `containers`
 * `tableware`
 * `headlamps`
-
 <br/>
 <details>
  <summary> <b> Click to see more details! </b> </summary>
