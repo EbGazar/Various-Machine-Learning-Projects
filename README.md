@@ -71,7 +71,7 @@ It was scraped from publicly available results posted every week from Domain.com
 * `CouncilArea: Governing council for the area`
 </details>
 
-## 💡Glass Classification.
+## 💡 Glass Classification.
 
 
 ##### Project Overview:
