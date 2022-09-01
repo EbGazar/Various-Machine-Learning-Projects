@@ -71,20 +71,20 @@ It was scraped from publicly available results posted every week from Domain.com
 * `CouncilArea: Governing council for the area`
 </details>
 
-## 💡 Iris Flowers Classifier.
+## 💡Glass Classification.
 
 
 ##### Project Overview:
 
 This is a Glass Identification Data Set from UCI. It contains 10 attributes including id. The response is glass type, discrete 7 values which is:
 
--- 1 buildingwindowsfloatprocessed
--- 2 buildingwindowsnonfloatprocessed
--- 3 vehiclewindowsfloatprocessed
--- 4 vehiclewindowsnonfloatprocessed (none in this database)
--- 5 containers
--- 6 tableware
--- 7 headlamps
+* `buildingwindowsfloatprocessed`
+* `buildingwindowsnonfloatprocessed`
+* `vehiclewindowsfloatprocessed`
+* `vehiclewindowsnonfloatprocess`
+* `containers`
+* `tableware`
+* `headlamps`
 
 <br/>
 <details>
