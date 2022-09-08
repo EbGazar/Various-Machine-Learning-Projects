@@ -12,7 +12,7 @@ Applying Machine Learning algorithms for various applications using regression a
 
 ## List of Projects
 
-## 💡 Iris Flowers Classifier.
+## 💡 Iris Flowers Classification.
 
 
 ##### Project Overview:
