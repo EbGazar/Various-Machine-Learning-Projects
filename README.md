@@ -78,18 +78,6 @@ It was scraped from publicly available results posted every week from Domain.com
 
 This is a Glass Identification Data Set from UCI. It contains 10 attributes including id. The response is glass type, discrete 7 values which is:
 
-* `buildingwindowsfloatprocessed`
-* `buildingwindowsnonfloatprocessed`
-* `vehiclewindowsfloatprocessed`
-* `vehiclewindowsnonfloatprocess`
-* `containers`
-* `tableware`
-* `headlamps`
-<br/>
-<details>
- <summary> <b> Click to see more details! </b> </summary>
- <br/>
-
 Attribute Information:
 <br/>
 * `RI: refractive index`
@@ -102,4 +90,3 @@ Attribute Information:
 * `Ba: Barium`
 * `Fe: Iron`
 * `Type of glass: (class attribute)`
-</details>
